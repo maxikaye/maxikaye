@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maxikaye
-- I have spent my career up until now as a designer, audio engineer, illustrator and developer.
-- My current focus is to become a more focused and skilled developer.
-- Collaboration comes natural to me after years playing in bands and creating art and music with others.
-- I look forward to collaborating on code with you.
+👋 Hey y'all, I’m @maxikaye
+- I am a developer, designer, illustrator, animator, and audio engineer. 
+- Working on **ceative tools**, games, music, and user interfaces that are intuitive, yet original are my *favorite jams*. 
+- Working with **creative people** who are *reliable* and have a *great sense of humor* fills me with *joy*.
+- I look forward to working with you. Don't be shy.
 
 <!---
 maxikaye/maxikaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
